@@ -2,6 +2,7 @@ from fastapi import FastAPI, UploadFile, File
 from typing import List
 from tasks import enqueue_xml
 
+#commit teste
 app = FastAPI(title="CloudEx API")
 
 @app.get("/")
