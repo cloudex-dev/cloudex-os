@@ -1,0 +1,4 @@
+lxml
+redis
+rq
+SQLAlchemy
